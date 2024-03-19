@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @oubousken, Embedded Software Engineer working on Batteries Development (Lithium-Ion batteries).
-- 👀 I’m interested in automotive industry and Innovation projects
-- 🌱 I’m currently learning Artificail Intelligence, Python. 
+- 👋 Hi, I’m @oubousken, I have an Electrical Engineer degree working on atomotive area especially now in batteries development!
+- 👀 I’m interested in Artificail Intelligence and Innovation projects.
+- 🌱 I’m currently learning AI and Programming Python 3.
 - 💞️ I’m looking to collaborate on new  innovative projects on freelancing projects, automotive Area.c
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me : LinkedIn : Oussama Bousken
+- ⚡ Fun fact: Learning is a journey of endless surprises!

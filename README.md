@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oubousken, I have an Electrical Engineer degree working on atomotive area especially in batteries development!
+- 👋 Hi, I’m @oubousken, I have an Electrical Engineer degree working as a Model Based Design Engineer.
 - 👀 I’m interested in Artificail Intelligence and Innovation projects.
 - 🌱 I’m currently learning AI and Programming Python 3.
 - 💞️ I’m looking to collaborate on new  innovative projects on freelancing projects, automotive Area.c
